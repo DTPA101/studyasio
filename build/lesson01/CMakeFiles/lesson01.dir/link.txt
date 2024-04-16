@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lesson01.dir/endpoint.cpp.o -o lesson01  /usr/lib/x86_64-linux-gnu/libspdlog.so.1.10.0 /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 

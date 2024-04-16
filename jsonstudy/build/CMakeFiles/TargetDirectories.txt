@@ -1,0 +1,3 @@
+/home/dtpa/Documents/asioprogram/asio-12345new/jsonstudy/build/CMakeFiles/jsoncpp_example.dir
+/home/dtpa/Documents/asioprogram/asio-12345new/jsonstudy/build/CMakeFiles/edit_cache.dir
+/home/dtpa/Documents/asioprogram/asio-12345new/jsonstudy/build/CMakeFiles/rebuild_cache.dir

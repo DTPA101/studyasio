@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/client2.dir/client/main.cpp.o -o client2  /usr/lib/x86_64-linux-gnu/libspdlog.so.1.10.0 /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 

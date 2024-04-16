@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dtpa/Documents/asioprogram/asio-12345new/jsonstudy/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/jsoncpp -g -o CMakeFiles/jsoncpp_example.dir/main.o -c /home/dtpa/Documents/asioprogram/asio-12345new/jsonstudy/main.cpp",
+  "file": "/home/dtpa/Documents/asioprogram/asio-12345new/jsonstudy/main.cpp"
+}
+]

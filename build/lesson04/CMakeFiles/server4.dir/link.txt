@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/server4.dir/server/main.cpp.o CMakeFiles/server4.dir/server/server.cpp.o CMakeFiles/server4.dir/server/session.cpp.o CMakeFiles/server4.dir/server/MsgNode.cpp.o -o server4  /usr/lib/x86_64-linux-gnu/libspdlog.so.1.10.0 /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 
