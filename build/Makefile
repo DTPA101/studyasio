@@ -220,6 +220,19 @@ client5/fast:
 	$(MAKE) $(MAKESILENT) -f lesson05/CMakeFiles/client5.dir/build.make lesson05/CMakeFiles/client5.dir/build
 .PHONY : client5/fast
 
+#=============================================================================
+# Target rules for targets named jsoncpp_example
+
+# Build rule for target.
+jsoncpp_example: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 jsoncpp_example
+.PHONY : jsoncpp_example
+
+# fast build rule for target.
+jsoncpp_example/fast:
+	$(MAKE) $(MAKESILENT) -f jsonstudy/CMakeFiles/jsoncpp_example.dir/build.make jsonstudy/CMakeFiles/jsoncpp_example.dir/build
+.PHONY : jsoncpp_example/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -231,6 +244,7 @@ help:
 	@echo "... client2"
 	@echo "... client4"
 	@echo "... client5"
+	@echo "... jsoncpp_example"
 	@echo "... lesson01"
 	@echo "... server2"
 	@echo "... server3"

@@ -78,5 +78,10 @@
   "directory": "/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson05",
   "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -isystem /usr/include/jsoncpp -g -o CMakeFiles/client5.dir/client/main.cpp.o -c /home/dtpa/Documents/asioprogram/asio-12345new/lesson05/client/main.cpp",
   "file": "/home/dtpa/Documents/asioprogram/asio-12345new/lesson05/client/main.cpp"
+},
+{
+  "directory": "/home/dtpa/Documents/asioprogram/asio-12345new/build/jsonstudy",
+  "command": "/usr/bin/c++  -isystem /usr/include/jsoncpp -g -o CMakeFiles/jsoncpp_example.dir/main.cpp.o -c /home/dtpa/Documents/asioprogram/asio-12345new/jsonstudy/main.cpp",
+  "file": "/home/dtpa/Documents/asioprogram/asio-12345new/jsonstudy/main.cpp"
 }
 ]

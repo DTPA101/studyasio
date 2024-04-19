@@ -12,7 +12,8 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6
 					],
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
@@ -34,7 +35,7 @@
 					"source" : "lesson01",
 					"targetIndexes" : 
 					[
-						3
+						4
 					]
 				},
 				{
@@ -50,7 +51,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						4
+						5
 					]
 				},
 				{
@@ -65,7 +66,7 @@
 					"source" : "lesson03",
 					"targetIndexes" : 
 					[
-						5
+						6
 					]
 				},
 				{
@@ -81,7 +82,7 @@
 					"targetIndexes" : 
 					[
 						1,
-						6
+						7
 					]
 				},
 				{
@@ -97,7 +98,22 @@
 					"targetIndexes" : 
 					[
 						2,
-						7
+						8
+					]
+				},
+				{
+					"build" : "jsonstudy",
+					"jsonFile" : "directory-jsonstudy-Debug-8419afae00004190c2c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "jsonstudy",
+					"targetIndexes" : 
+					[
+						3
 					]
 				}
 			],
@@ -111,7 +127,8 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6
 					],
 					"directoryIndexes" : 
 					[
@@ -128,7 +145,7 @@
 					"parentIndex" : 0,
 					"targetIndexes" : 
 					[
-						3
+						4
 					]
 				},
 				{
@@ -141,7 +158,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						4
+						5
 					]
 				},
 				{
@@ -153,7 +170,7 @@
 					"parentIndex" : 0,
 					"targetIndexes" : 
 					[
-						5
+						6
 					]
 				},
 				{
@@ -166,7 +183,7 @@
 					"targetIndexes" : 
 					[
 						1,
-						6
+						7
 					]
 				},
 				{
@@ -179,7 +196,19 @@
 					"targetIndexes" : 
 					[
 						2,
-						7
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "jsonstudy",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
 					]
 				}
 			],
@@ -205,6 +234,13 @@
 					"jsonFile" : "target-client5-Debug-e4da75364178ea573146.json",
 					"name" : "client5",
 					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "jsoncpp_example::@3ec0fc529c5168dc61e4",
+					"jsonFile" : "target-jsoncpp_example-Debug-0c842e4b977677ec793b.json",
+					"name" : "jsoncpp_example",
+					"projectIndex" : 6
 				},
 				{
 					"directoryIndex" : 1,
