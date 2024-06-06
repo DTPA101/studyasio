@@ -18,6 +18,10 @@
 /home/dtpa/Documents/asioprogram/asio-12345new/build/lesson05/CMakeFiles/client5.dir
 /home/dtpa/Documents/asioprogram/asio-12345new/build/lesson05/CMakeFiles/edit_cache.dir
 /home/dtpa/Documents/asioprogram/asio-12345new/build/lesson05/CMakeFiles/rebuild_cache.dir
+/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson06/CMakeFiles/server6.dir
+/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson06/CMakeFiles/client6.dir
+/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson06/CMakeFiles/edit_cache.dir
+/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson06/CMakeFiles/rebuild_cache.dir
 /home/dtpa/Documents/asioprogram/asio-12345new/build/jsonstudy/CMakeFiles/jsoncpp_example.dir
 /home/dtpa/Documents/asioprogram/asio-12345new/build/jsonstudy/CMakeFiles/edit_cache.dir
 /home/dtpa/Documents/asioprogram/asio-12345new/build/jsonstudy/CMakeFiles/rebuild_cache.dir

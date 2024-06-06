@@ -80,6 +80,41 @@
   "file": "/home/dtpa/Documents/asioprogram/asio-12345new/lesson05/client/main.cpp"
 },
 {
+  "directory": "/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson06",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -isystem /usr/include/jsoncpp -g -o CMakeFiles/server6.dir/server/main.cpp.o -c /home/dtpa/Documents/asioprogram/asio-12345new/lesson06/server/main.cpp",
+  "file": "/home/dtpa/Documents/asioprogram/asio-12345new/lesson06/server/main.cpp"
+},
+{
+  "directory": "/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson06",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -isystem /usr/include/jsoncpp -g -o CMakeFiles/server6.dir/server/server.cpp.o -c /home/dtpa/Documents/asioprogram/asio-12345new/lesson06/server/server.cpp",
+  "file": "/home/dtpa/Documents/asioprogram/asio-12345new/lesson06/server/server.cpp"
+},
+{
+  "directory": "/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson06",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -isystem /usr/include/jsoncpp -g -o CMakeFiles/server6.dir/server/session.cpp.o -c /home/dtpa/Documents/asioprogram/asio-12345new/lesson06/server/session.cpp",
+  "file": "/home/dtpa/Documents/asioprogram/asio-12345new/lesson06/server/session.cpp"
+},
+{
+  "directory": "/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson06",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -isystem /usr/include/jsoncpp -g -o CMakeFiles/server6.dir/server/MsgNode.cpp.o -c /home/dtpa/Documents/asioprogram/asio-12345new/lesson06/server/MsgNode.cpp",
+  "file": "/home/dtpa/Documents/asioprogram/asio-12345new/lesson06/server/MsgNode.cpp"
+},
+{
+  "directory": "/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson06",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -isystem /usr/include/jsoncpp -g -o CMakeFiles/server6.dir/server/LogicNode.cpp.o -c /home/dtpa/Documents/asioprogram/asio-12345new/lesson06/server/LogicNode.cpp",
+  "file": "/home/dtpa/Documents/asioprogram/asio-12345new/lesson06/server/LogicNode.cpp"
+},
+{
+  "directory": "/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson06",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -isystem /usr/include/jsoncpp -g -o CMakeFiles/server6.dir/server/AsioIOContextPool.cpp.o -c /home/dtpa/Documents/asioprogram/asio-12345new/lesson06/server/AsioIOContextPool.cpp",
+  "file": "/home/dtpa/Documents/asioprogram/asio-12345new/lesson06/server/AsioIOContextPool.cpp"
+},
+{
+  "directory": "/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson06",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -isystem /usr/include/jsoncpp -g -o CMakeFiles/client6.dir/client/main.cpp.o -c /home/dtpa/Documents/asioprogram/asio-12345new/lesson06/client/main.cpp",
+  "file": "/home/dtpa/Documents/asioprogram/asio-12345new/lesson06/client/main.cpp"
+},
+{
   "directory": "/home/dtpa/Documents/asioprogram/asio-12345new/build/jsonstudy",
   "command": "/usr/bin/c++  -isystem /usr/include/jsoncpp -g -o CMakeFiles/jsoncpp_example.dir/main.cpp.o -c /home/dtpa/Documents/asioprogram/asio-12345new/jsonstudy/main.cpp",
   "file": "/home/dtpa/Documents/asioprogram/asio-12345new/jsonstudy/main.cpp"

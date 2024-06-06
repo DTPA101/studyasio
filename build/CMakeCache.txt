@@ -289,6 +289,15 @@ lesson05_IS_TOP_LEVEL:STATIC=OFF
 //Value Computed by CMake
 lesson05_SOURCE_DIR:STATIC=/home/dtpa/Documents/asioprogram/asio-12345new/lesson05
 
+//Value Computed by CMake
+lesson06_BINARY_DIR:STATIC=/home/dtpa/Documents/asioprogram/asio-12345new/build/lesson06
+
+//Value Computed by CMake
+lesson06_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+lesson06_SOURCE_DIR:STATIC=/home/dtpa/Documents/asioprogram/asio-12345new/lesson06
+
 //The directory containing a CMake configuration file for spdlog.
 spdlog_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/spdlog
 
@@ -399,7 +408,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=7
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=8
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

@@ -221,6 +221,32 @@ client5/fast:
 .PHONY : client5/fast
 
 #=============================================================================
+# Target rules for targets named server6
+
+# Build rule for target.
+server6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 server6
+.PHONY : server6
+
+# fast build rule for target.
+server6/fast:
+	$(MAKE) $(MAKESILENT) -f lesson06/CMakeFiles/server6.dir/build.make lesson06/CMakeFiles/server6.dir/build
+.PHONY : server6/fast
+
+#=============================================================================
+# Target rules for targets named client6
+
+# Build rule for target.
+client6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 client6
+.PHONY : client6
+
+# fast build rule for target.
+client6/fast:
+	$(MAKE) $(MAKESILENT) -f lesson06/CMakeFiles/client6.dir/build.make lesson06/CMakeFiles/client6.dir/build
+.PHONY : client6/fast
+
+#=============================================================================
 # Target rules for targets named jsoncpp_example
 
 # Build rule for target.
@@ -244,12 +270,14 @@ help:
 	@echo "... client2"
 	@echo "... client4"
 	@echo "... client5"
+	@echo "... client6"
 	@echo "... jsoncpp_example"
 	@echo "... lesson01"
 	@echo "... server2"
 	@echo "... server3"
 	@echo "... server4"
 	@echo "... server5"
+	@echo "... server6"
 .PHONY : help
 
 

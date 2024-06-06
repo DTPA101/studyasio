@@ -17,6 +17,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/dtpa/Documents/asioprogram/asio-12345new/lesson03/CMakeLists.txt"
   "/home/dtpa/Documents/asioprogram/asio-12345new/lesson04/CMakeLists.txt"
   "/home/dtpa/Documents/asioprogram/asio-12345new/lesson05/CMakeLists.txt"
+  "/home/dtpa/Documents/asioprogram/asio-12345new/lesson06/CMakeLists.txt"
   "/usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake"
   "/usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfigVersion.cmake"
   "/usr/lib/x86_64-linux-gnu/cmake/boost_headers-1.74.0/boost_headers-config-version.cmake"
@@ -76,6 +77,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "lesson03/CMakeFiles/CMakeDirectoryInformation.cmake"
   "lesson04/CMakeFiles/CMakeDirectoryInformation.cmake"
   "lesson05/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "lesson06/CMakeFiles/CMakeDirectoryInformation.cmake"
   "jsonstudy/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
@@ -89,5 +91,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "lesson04/CMakeFiles/client4.dir/DependInfo.cmake"
   "lesson05/CMakeFiles/server5.dir/DependInfo.cmake"
   "lesson05/CMakeFiles/client5.dir/DependInfo.cmake"
+  "lesson06/CMakeFiles/server6.dir/DependInfo.cmake"
+  "lesson06/CMakeFiles/client6.dir/DependInfo.cmake"
   "jsonstudy/CMakeFiles/jsoncpp_example.dir/DependInfo.cmake"
   )
